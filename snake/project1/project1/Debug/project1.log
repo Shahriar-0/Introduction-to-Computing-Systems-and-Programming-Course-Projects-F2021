@@ -1,0 +1,5 @@
+﻿  project1.c
+C:\Users\Asus\Desktop\university\programming basics\project\project 1\project1\project1\project1.c(200,21): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Asus\Desktop\university\programming basics\project\project 1\project1\project1\project1.c(711): warning C4715: 'update_snake2_coordinate': not all control paths return a value
+C:\Users\Asus\Desktop\university\programming basics\project\project 1\project1\project1\project1.c(541): warning C4715: 'update_snake1_coordinate': not all control paths return a value
+  project1.vcxproj -> C:\Users\Asus\Desktop\university\programming basics\project\project 1\project1\Debug\project1.exe
