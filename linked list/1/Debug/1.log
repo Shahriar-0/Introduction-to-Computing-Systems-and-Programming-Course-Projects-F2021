@@ -1,0 +1,9 @@
+﻿  1.c
+C:\Users\Asus\Desktop\university\programming_basics\lab\1\1\1\1.c(27,33): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\Asus\Desktop\university\programming_basics\lab\1\1\1\1.c(40,30): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+C:\Users\Asus\Desktop\university\programming_basics\lab\1\1\1\1.c(55,73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asus\Desktop\university\programming_basics\lab\1\1\1\1.c(56,70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asus\Desktop\university\programming_basics\lab\1\1\1\1.c(57,68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Asus\Desktop\university\programming_basics\lab\1\1\1\1.c(165,22): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Asus\Desktop\university\programming_basics\lab\1\1\1\1.c(165,37): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+  1.vcxproj -> C:\Users\Asus\Desktop\university\programming_basics\lab\1\1\Debug\1.exe
