@@ -1,0 +1,3 @@
+﻿  user_handler.c
+C:\Users\Asus\Desktop\university\programming basics\project\project 2\project 2\user_handler.c(22,33): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+  project 2.vcxproj -> C:\Users\Asus\Desktop\university\programming basics\project\project 2\Debug\project 2.exe

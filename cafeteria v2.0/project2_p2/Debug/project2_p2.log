@@ -1,0 +1,4 @@
+﻿  command_handler.c
+C:\Users\Asus\Desktop\university\programming_basics\project\project2_p2\project2_p2\command_handler.c(218,64): warning C4047: '==': 'int' differs in levels of indirection from 'int [7]'
+C:\Users\Asus\Desktop\university\programming_basics\project\project2_p2\project2_p2\command_handler.c(263,65): warning C4047: '==': 'int' differs in levels of indirection from 'int [7]'
+  project2_p2.vcxproj -> C:\Users\Asus\Desktop\university\programming_basics\project\project2_p2\Debug\project2_p2.exe
