@@ -1,4 +1,4 @@
-# ISCP-projects
+# ICSP-projects
 the things I've done in the first three months of my coding
 including :
   1 : snake game //it can only be compiled with VS
