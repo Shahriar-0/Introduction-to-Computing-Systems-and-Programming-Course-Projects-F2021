@@ -1,0 +1,9 @@
+kebab 1 3000 100 3 2
+fesenjoon 2 10000 5 3 1
+koft 3 500 200 4 6
+chicken 5 12000 15 5 2
+poison 12 100 93 666 4
+maraz 7 3500 200 5 3
+kabab 9 3500 30 5 2
+rice 18 4000 17 5 6
+shit 11 4500 18 666 2
